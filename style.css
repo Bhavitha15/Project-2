@@ -1,0 +1,27 @@
+body{
+    background-image: url(horror.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color:coral;
+}
+h3{
+    color:white;
+}
+.first{
+    
+    display:flex;
+    justify-content: space-between;
+    padding:100px;
+    margin:auto;
+    margin-left:5%;
+    margin-right:5%;
+
+}
+img{
+    height:200px;
+    width:150px;
+    border:2px solid greenyellow;
+    border-radius:50%;
+}

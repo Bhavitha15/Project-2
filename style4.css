@@ -1,0 +1,19 @@
+.second{
+    display:flex;
+    justify-content: space-evenly;
+    padding:50px;
+    margin:auto;
+    margin-left:5%;
+    margin-right:5%;
+}
+img{
+    height:150px;
+    width:150px;
+    border:2px solid black;
+}
+html
+{
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color:bisque;
+}
